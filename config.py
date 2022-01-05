@@ -1,7 +1,7 @@
 DEBUG = True # Inserida apenas no setor de desenvolvimento para testes
 
 USERNAME = 'root'
-PASSWORD = 'A1l2a1l22.0'
+PASSWORD = 'xxxxxxxxxxxxx'
 SERVER = 'localhost'
 DB = 'flask_fundamentos'
 
